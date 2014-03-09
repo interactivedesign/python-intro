@@ -27,4 +27,4 @@ Compatible with both Python2 and Python3.
 
 ## How to use
 
-Go to [intro.py](https://raw.github.com/raspberrypilearning/python-intro/master/intro.py) and download the file (right click & save) then open the file in IDLE or IDLE3. Run the file with ```F5``` to see the output then go back to the code and read the instructions, edit away, save and run again.
+Go to [intro.py](https://github.com/interactivedesign/python-intro/blob/master/intro.py) and download the file (right click & save) then open the file in IDLE or IDLE3. Run the file with ```F5``` to see the output then go back to the code and read the instructions, edit away, save and run again.
